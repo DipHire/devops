@@ -1,0 +1,16 @@
+import re
+
+logs = [
+    "Jan 21 10:11:22 server systemd[1]: Starting docker.service...",
+    "Jan 21 10:11:24 server systemd[1]: Started docker.service.",
+    "Jan 21 10:11:24 server systemd[1]: Starting nginx.service...",
+    "Jan 21 10:11:25 server systemd[1]: Failed nginx.service"
+]
+
+pattern = re.compile(r'(Starting|Started|Failed)\s+(\w+)\.service')
+
+for line in logs:
+    match = pattern.search(line)
+    if match:
+        status, service = match.groups()
+        print(f"Service: {service} | Status: {status}")

@@ -1,0 +1,4 @@
+laptop:8
+mouse:40
+keyboard:18
+charger:5

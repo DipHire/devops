@@ -1,0 +1,2 @@
+Server: app-server CPU: 45 | MEM: 60 | HEALTHY
+Server: db-server CPU: 92 | MEM: 81 | UNHEALTHY

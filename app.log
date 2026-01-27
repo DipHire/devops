@@ -1,0 +1,9 @@
+2026-01-21 10:01:23,718 | INFO | Application started
+2026-01-21 10:01:23,718 | DEBUG | add() called with 10, 20
+2026-01-21 10:01:23,718 | INFO | Addition result: 30
+2026-01-21 10:01:23,718 | INFO | divide() called with 10, 0
+2026-01-21 10:01:23,718 | ERROR | Division by zero error
+2026-01-21 10:01:23,718 | INFO | Trying to read file: data.txt
+2026-01-21 10:01:23,718 | INFO | File opened successfully
+2026-01-21 10:01:23,718 | DEBUG | File read completely
+2026-01-21 10:01:23,718 | CRITICAL | Application finished

@@ -1,0 +1,10 @@
+SYSTEM STARTED
+ADD : Student ID 101 added
+ADD : Student ID 102 added
+ADD : Student ID 103 added
+ADD : Student ID 104 added
+VIEW : Viewed all student records
+ADD : Student ID 111 added
+SEARCH : Student ID 108 found
+DELETE : Student ID 107 not found
+VIEW : Viewed all student records

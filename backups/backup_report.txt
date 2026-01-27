@@ -1,0 +1,7 @@
+Deleted: backup_2025-12-09.zip
+Deleted: backup_2025-12-19.zip
+Archived: backup_2026-01-03.zip
+Archived: backup_2026-01-13.zip
+Archived: backup_2026-01-16.zip
+Kept: backup_2026-01-20.zip
+Kept: backup_2026-01-22.zip

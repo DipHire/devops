@@ -1,0 +1,5 @@
+INFO: Application started
+WARNING: Disk usage high
+ERROR: Service crashed
+INFO: New connection
+ERROR: Out of memory

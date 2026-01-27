@@ -1,0 +1,76 @@
+2026-01-21 11:53:23,705 - DEBUG - Loading stock file
+2026-01-21 11:53:23,707 - CRITICAL - Stock file missing!
+2026-01-21 11:53:23,707 - ERROR - Unexpected error: [Errno 2] No such file or directory: 'stock.txt'
+2026-01-21 11:53:23,707 - DEBUG - Order processing completed
+2026-01-21 11:53:23,707 - DEBUG - Loading stock file
+2026-01-21 11:53:23,707 - CRITICAL - Stock file missing!
+2026-01-21 11:53:23,707 - ERROR - Unexpected error: [Errno 2] No such file or directory: 'stock.txt'
+2026-01-21 11:53:23,707 - DEBUG - Order processing completed
+2026-01-21 11:53:23,707 - DEBUG - Loading stock file
+2026-01-21 11:53:23,707 - CRITICAL - Stock file missing!
+2026-01-21 11:53:23,707 - ERROR - Unexpected error: [Errno 2] No such file or directory: 'stock.txt'
+2026-01-21 11:53:23,707 - DEBUG - Order processing completed
+2026-01-21 11:53:23,707 - DEBUG - Loading stock file
+2026-01-21 11:53:23,707 - CRITICAL - Stock file missing!
+2026-01-21 11:53:23,707 - ERROR - Unexpected error: [Errno 2] No such file or directory: 'stock.txt'
+2026-01-21 11:53:23,707 - DEBUG - Order processing completed
+2026-01-21 11:53:35,766 - DEBUG - Loading stock file
+2026-01-21 11:53:35,766 - CRITICAL - Stock file missing!
+2026-01-21 11:53:35,766 - ERROR - Unexpected error: [Errno 2] No such file or directory: 'stock.txt'
+2026-01-21 11:53:35,766 - DEBUG - Order processing completed
+2026-01-21 11:53:35,766 - DEBUG - Loading stock file
+2026-01-21 11:53:35,766 - CRITICAL - Stock file missing!
+2026-01-21 11:53:35,766 - ERROR - Unexpected error: [Errno 2] No such file or directory: 'stock.txt'
+2026-01-21 11:53:35,766 - DEBUG - Order processing completed
+2026-01-21 11:53:35,766 - DEBUG - Loading stock file
+2026-01-21 11:53:35,766 - CRITICAL - Stock file missing!
+2026-01-21 11:53:35,769 - ERROR - Unexpected error: [Errno 2] No such file or directory: 'stock.txt'
+2026-01-21 11:53:35,769 - DEBUG - Order processing completed
+2026-01-21 11:53:35,769 - DEBUG - Loading stock file
+2026-01-21 11:53:35,769 - CRITICAL - Stock file missing!
+2026-01-21 11:53:35,769 - ERROR - Unexpected error: [Errno 2] No such file or directory: 'stock.txt'
+2026-01-21 11:53:35,769 - DEBUG - Order processing completed
+2026-01-21 11:56:12,941 - DEBUG - Loading stock file
+2026-01-21 11:56:12,954 - INFO - Order placed \u2192 Product: laptop, Quantity: 2
+2026-01-21 11:56:12,955 - INFO - Order successful for laptop
+2026-01-21 11:56:12,955 - DEBUG - Stock file updated
+2026-01-21 11:56:12,955 - DEBUG - laptop stock reduced to 8
+2026-01-21 11:56:12,955 - DEBUG - Order processing completed
+2026-01-21 11:56:12,955 - DEBUG - Loading stock file
+2026-01-21 11:56:12,962 - INFO - Order placed \u2192 Product: mouse, Quantity: 0
+2026-01-21 11:56:12,962 - ERROR - Invalid order quantity
+2026-01-21 11:56:12,962 - DEBUG - Order processing completed
+2026-01-21 11:56:12,962 - DEBUG - Loading stock file
+2026-01-21 11:56:12,962 - INFO - Order placed \u2192 Product: charger, Quantity: 10
+2026-01-21 11:56:12,962 - ERROR - Not enough stock
+2026-01-21 11:56:12,962 - DEBUG - Order processing completed
+2026-01-21 11:56:12,962 - DEBUG - Loading stock file
+2026-01-21 11:56:12,962 - INFO - Order placed \u2192 Product: tablet, Quantity: 1
+2026-01-21 11:56:12,962 - WARNING - Product 'tablet' does not exist
+2026-01-21 11:56:12,962 - DEBUG - Order processing completed
+2026-01-21 11:58:15,822 - DEBUG - Loading stock file
+2026-01-21 11:58:15,823 - INFO - User placed order: keyboard, Quantity: 2
+2026-01-21 11:58:15,823 - INFO - Order processed successfully
+2026-01-21 11:58:15,823 - DEBUG - Stock updated in file
+2026-01-21 11:58:15,823 - DEBUG - keyboard stock reduced to 18
+2026-01-21 11:58:15,823 - DEBUG - Order processing completed
+2026-01-21 12:00:31,251 - DEBUG - Loading stock file
+2026-01-21 12:00:31,252 - INFO - User placed order: apple, Quantity: 1
+2026-01-21 12:00:31,252 - WARNING - Product does not exist
+2026-01-21 12:00:31,252 - DEBUG - Order processing completed
+2026-01-21 14:40:45,199 - DEBUG - Loading stock file
+2026-01-21 14:40:45,215 - INFO - User placed order: mouse, Quantity: 5
+2026-01-21 14:40:45,215 - INFO - Order processed successfully
+2026-01-21 14:40:45,216 - DEBUG - Stock updated in file
+2026-01-21 14:40:45,216 - DEBUG - mouse stock reduced to 45
+2026-01-21 14:40:45,216 - DEBUG - Order processing completed
+2026-01-21 14:45:27,711 - DEBUG - Loading stock file
+2026-01-21 14:45:27,713 - INFO - User placed order: tablet, Quantity: 2
+2026-01-21 14:45:27,713 - WARNING - Product does not exist
+2026-01-21 14:45:27,713 - DEBUG - Order processing completed
+2026-01-21 14:45:51,278 - DEBUG - Loading stock file
+2026-01-21 14:45:51,278 - INFO - User placed order: mouse, Quantity: 5
+2026-01-21 14:45:51,278 - INFO - Order processed successfully
+2026-01-21 14:45:51,279 - DEBUG - Stock updated in file
+2026-01-21 14:45:51,279 - DEBUG - mouse stock reduced to 40
+2026-01-21 14:45:51,279 - DEBUG - Order processing completed
